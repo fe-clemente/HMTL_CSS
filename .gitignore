@@ -1,2 +1,8 @@
-#  tranqueira
-*.certificado_FERNANDO M CLEMENTE - Course HTML and CSS_ header, footer and CSS variables - Alura.pdf
+# Ignorar arquivos específicos na pasta tranqueira
+/tranqueira/01_certificad_ FERNANDO M CLEMENTE - Course HTML and CSS_ development environments, file structure and tags - Alura.pdf
+/tranqueira/02_certificad_ FERNANDO M CLEMENTE - Course HTML and CSS_ development environments,FlexBox.pdf
+/tranqueira/Crie sites incríveis com HTML e CSS! documento do word
+/tranqueira/HTML AND CSS DEVELOPMENTENVIRONMENTS, FILE STRUCTURE ANDTAGS.jpg
+
+# Ignorar arquivo específico na raiz
+/certificado_FERNANDO M CLEMENTE - Course HTML and CSS_ header, footer and CSS variables - Alura
